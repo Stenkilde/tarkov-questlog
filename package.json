@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://olidotjpeg.github.io/tarkov-questlog",
   "dependencies": {
-    "gh-pages": "^3.0.0",
+    "gh-pages": "^5.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-is": ">= 16.8.0",
